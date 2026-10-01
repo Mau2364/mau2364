@@ -38,4 +38,5 @@ profesional.
 > **Construyendo soluciones, desarrollando ideas.**
 >
 > ##📊 GitHub Stats
-> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mau6324&theme=vue-dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mau2324&theme=vue-dark" alt="GitHub Streak" /></a>
+
