@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="Mauricio Bejarano" src="https://github.com/user-attachments/assets/ad857c6a-680f-4d69-ac8f-4a967af312b9" />
+
+
 # Mauricio Bejarano 👋
 
 ### Estudiante de Ingeniería de Software | Desarrollo de Software
