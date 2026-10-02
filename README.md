@@ -1,5 +1,6 @@
+
 <p alig= "center">
-<img width="100%" height="400" alt="Mauricio Bejarano" src="https://github.com/user-attachments/assets/ad857c6a-680f-4d69-ac8f-4a967af312b9" />
+<img width="100%" height="400" alt="Banner de Mauricio Bejarano" src="https://github.com/user-attachments/assets/77089d19-85c4-4977-bb9a-fa8ff0788db5" />
 </p>
 
 # Mauricio Bejarano 👋
