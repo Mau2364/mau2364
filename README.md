@@ -5,9 +5,9 @@
 
 # Mauricio Bejarano 👋
 
-### Estudiante de Ingeniería de Software | Desarrollo de Software
+### Ingeniero de Software | Desarrollo de Software
 
-Soy estudiante de Ingeniería de Software interesado en el desarrollo de aplicaciones,
+Soy ingeniero de Software interesado en el desarrollo de aplicaciones,
 la programación y las tecnologías que permiten crear soluciones útiles.
 
 Actualmente continúo fortaleciendo mis conocimientos en desarrollo de software,
